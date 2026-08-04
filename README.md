@@ -17,4 +17,20 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

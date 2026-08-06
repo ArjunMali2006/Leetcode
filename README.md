@@ -13,6 +13,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
+| [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

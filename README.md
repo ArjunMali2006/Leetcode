@@ -38,4 +38,12 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->

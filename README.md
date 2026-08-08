@@ -13,6 +13,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 ## String
 |  |
@@ -67,4 +69,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

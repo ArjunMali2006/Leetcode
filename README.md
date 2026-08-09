@@ -46,12 +46,14 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

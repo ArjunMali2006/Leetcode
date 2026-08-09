@@ -14,14 +14,17 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | ------- |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -43,6 +46,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 ## String
 |  |
@@ -73,4 +77,9 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

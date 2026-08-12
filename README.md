@@ -49,17 +49,20 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ArjunMali2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ArjunMali2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -87,4 +90,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

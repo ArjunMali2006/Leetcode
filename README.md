@@ -62,6 +62,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/ArjunMali2006/Leetcode/tree/master/0709-to-lower-case) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArjunMali2006/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ArjunMali2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers

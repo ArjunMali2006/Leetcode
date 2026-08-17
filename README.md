@@ -29,6 +29,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArjunMali2006/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2235-add-two-integers](https://github.com/ArjunMali2006/Leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |

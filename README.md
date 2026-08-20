@@ -30,6 +30,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArjunMali2006/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/ArjunMali2006/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/ArjunMali2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ArjunMali2006/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
@@ -122,4 +123,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/ArjunMali2006/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ArjunMali2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

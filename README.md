@@ -32,6 +32,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [2235-add-two-integers](https://github.com/ArjunMali2006/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ArjunMali2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ArjunMali2006/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2651-calculate-delayed-arrival-time](https://github.com/ArjunMali2006/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Dynamic Programming
 |  |
 | ------- |

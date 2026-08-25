@@ -27,6 +27,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArjunMali2006/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ArjunMali2006/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -50,6 +51,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArjunMali2006/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -129,5 +131,6 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ArjunMali2006/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/ArjunMali2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

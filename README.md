@@ -9,6 +9,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | ------- |
 | [0584-find-customer-referee](https://github.com/ArjunMali2006/Leetcode/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/ArjunMali2006/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/ArjunMali2006/Leetcode/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/ArjunMali2006/Leetcode/tree/master/1407-top-travellers) |
 | [1683-invalid-tweets](https://github.com/ArjunMali2006/Leetcode/tree/master/1683-invalid-tweets) |
 ## Array

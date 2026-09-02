@@ -57,6 +57,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArjunMali2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
@@ -67,6 +68,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArjunMali2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
@@ -110,6 +112,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ArjunMali2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |

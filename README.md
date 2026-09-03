@@ -15,6 +15,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -58,6 +59,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunMali2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
@@ -137,4 +139,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | ------- |
 | [0258-add-digits](https://github.com/ArjunMali2006/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/ArjunMali2006/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

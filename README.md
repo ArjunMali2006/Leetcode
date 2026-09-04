@@ -65,6 +65,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArjunMali2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
@@ -74,6 +75,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArjunMali2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/ArjunMali2006/Leetcode/tree/master/0709-to-lower-case) |
@@ -116,6 +118,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjunMali2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArjunMali2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 ## Euclidean Algorithm

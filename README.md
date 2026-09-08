@@ -19,6 +19,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/ArjunMali2006/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/ArjunMali2006/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

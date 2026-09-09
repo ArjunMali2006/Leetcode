@@ -15,6 +15,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/ArjunMali2006/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -163,4 +165,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

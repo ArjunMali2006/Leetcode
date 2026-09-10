@@ -24,6 +24,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ArjunMali2006/Leetcode/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjunMali2006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
@@ -95,6 +98,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ArjunMali2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
@@ -120,6 +124,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0217-contains-duplicate](https://github.com/ArjunMali2006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArjunMali2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

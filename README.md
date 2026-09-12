@@ -27,6 +27,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0219-contains-duplicate-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0867-transpose-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ArjunMali2006/Leetcode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -203,4 +205,8 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArjunMali2006/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

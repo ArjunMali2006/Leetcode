@@ -18,6 +18,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/ArjunMali2006/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ArjunMali2006/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ArjunMali2006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/ArjunMali2006/Leetcode/tree/master/0164-maximum-gap) |
@@ -33,6 +34,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ArjunMali2006/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ArjunMali2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -208,5 +210,6 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

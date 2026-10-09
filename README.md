@@ -29,6 +29,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0268-missing-number](https://github.com/ArjunMali2006/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArjunMali2006/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/ArjunMali2006/Leetcode/tree/master/0867-transpose-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/ArjunMali2006/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/ArjunMali2006/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ArjunMali2006/Leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/ArjunMali2006/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/ArjunMali2006/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ArjunMali2006/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |

@@ -7,6 +7,7 @@ My LeetCode solutions in Java and SQL, documenting my journey in Data Structures
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/ArjunMali2006/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/ArjunMali2006/Leetcode/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/ArjunMali2006/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/ArjunMali2006/Leetcode/tree/master/1075-project-employees-i) |
